@@ -1,0 +1,22 @@
+City,State,County,Zip,Dec15,Oct15,Nov15,Sept15,Aug15,July15,June15,Apr15,Mar15,Feb15,Jan16,lon,lat
+San Francisco,CA,San Francisco County,94101,35,36,3,3,35,35,0,3,34,46,4,-122.417481,37.776646
+New York,NY,New York County,10004,40,30,0,6,6,8,2,31,3,20,13,-74.018244,40.68863
+Boston,MA,Suffolk County,2101,1,2,6,8,15,12,20,6,2,1,3,-71.026964,42.370567
+Oakland,CA,Alameda County,94601,4,3,2,2,6,5,9,2,2,1,0,-122.223779,37.786027
+Washington,DC,District of Columbia,20001,1,1,2,9,16,10,8,1,3,2,0,-77.016719,38.911936
+San Jose,CA,Santa Clara County,95101,11,2,0,4,3,2,2,6,3,1,2,-121.705327,37.189396
+Chicago,IL,Cook County,60601,1,1,2,14,12,15,20,10,4,1,0,-87.62213,41.88531
+Los Angeles,CA,Los Angeles County,90001,1,3,4,1,8,15,21,23,25,1,2,-118.248405,33.973951
+Miami,FL,Miami-Dade County,33231,22,11,10,1,2,1,3,7,8,14,9,-80.458168,25.558428
+Seattle,WA,King County,98060,3,6,7,5,3,15,12,4,6,1,10,-121.803388,47.432251
+San Diego,CA,San Diego County,92101,5,13,11,7,15,11,5,9,4,8,15,-117.170912,32.724103
+Portland,OR,Multnomah County,97201,1,3,4,7,15,12,13,5,1,3,2,-122.690794,45.507856
+Denver,CO,Denver County,80201,1,1,1,5,6,12,15,10,1,0,0,-104.856808,39.726303
+Atlanta,GA,Fulton County,30301,12,16,10,4,4,3,2,7,8,9,13,-84.47405,33.844371
+Baltimore,MD,Baltimore city,21201,12,10,5,7,13,15,11,10,5,2,1,-76.623489,39.296536
+Philadelphia,PA,Philadelphia County,19019,9,12,1,13,15,16,18,15,8,5,6,-75.11787,40.001811
+Long Beach,CA,Los Angeles County,90801,10,11,12,11,7,5,1,1,10,13,15,-118.200957,33.804309
+Dallas,TX,Dallas County,75201,11,10,7,9,5,4,4,8,9,10,11,-96.790329,32.781179
+Minneapolis,MN,Hennepin County,55401,2,15,11,13,15,11,12,6,4,2,1,-93.269097,44.984577
+Austin,TX,Travis County,73301,9,11,10,12,2,3,8,9,15,10,11,-97.771258,30.326374
+Houston,TX,Harris County,77001,11,14,12,7,9,6,5,14,12,15,10,-95.309789,29.813142

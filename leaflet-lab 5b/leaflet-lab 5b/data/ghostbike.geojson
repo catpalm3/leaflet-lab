@@ -1,0 +1,185 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.62529,-23.533773 ]
+    },
+    "properties": {
+    "City":"Sao Paulo",
+    "Date":2009,
+    "Name":"Marcia Prado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.822899,42.588081 ]
+    },
+    "properties": {
+    "City":"Kenosha",
+    "Date":2008,
+    "Name":"Nancy Sellars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.401,43.07303 ]
+    },
+    "properties": {
+    "City":"Madison",
+    "Date":2012,
+    "Name":"Tyler Knipfer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.2099,-33.865143 ]
+    },
+    "properties": {
+    "City":"Sydney",
+    "Date":2010,
+    "Name":"Michael Bate"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.41854,50.073658 ]
+    },
+    "properties": {
+    "City":"Prague",
+    "Date":2006,
+    "Name":"Jan Bouchal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.43,43.073051 ]
+    },
+    "properties": {
+    "City":"Madison",
+    "Date":2013,
+    "Name":"Brendan Primm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.935242,40.73061 ]
+    },
+    "properties": {
+    "City":"NYC",
+    "Date":2018,
+    "Name":"Madison Lyden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.945831,60.192059 ]
+    },
+    "properties": {
+    "City":"Helsinki",
+    "Date":2011,
+    "Name":"Unnamed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.32,-35.6 ]
+    },
+    "properties": {
+    "City":"Whangarei",
+    "Date":2008,
+    "Name":"Fred Ogle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174,-35.73 ]
+    },
+    "properties": {
+    "City":"Whangarei",
+    "Date":2008,
+    "Name":"Lynley MacDonald"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.266155,53.35014 ]
+    },
+    "properties": {
+    "City":"Dublin�",
+    "Date":2009,
+    "Name":"Zu Zhang Wong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.866287,39.925533 ]
+    },
+    "properties": {
+    "City":"Ankara",
+    "Date":2011,
+    "Name":"Mustafa Onur Karaca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.567444,53.893009 ]
+    },
+    "properties": {
+    "City":"Minsk",
+    "Date":2011,
+    "Name":"Andrei Zabava"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.30014,27.700769 ]
+    },
+    "properties": {
+    "City":"Kathmandu",
+    "Date":2018,
+    "Name":" Shyam Shrestha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851959,1.29027 ]
+    },
+    "properties": {
+    "City":"Singapore",
+    "Date":2010,
+    "Name":"Benjamin Mok."
+    }
+  }
+]
+}
